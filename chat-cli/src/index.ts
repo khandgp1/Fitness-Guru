@@ -5,8 +5,9 @@ import { query } from "@anthropic-ai/claude-agent-sdk";
 import { createOnUserDialog, ASK_USER_QUESTION_DIALOG_KIND } from "./ask-user-dialog.js";
 import { loadPhysiqueGuruTeam } from "./agents.js";
 
-const PROJECT_ROOT = new URL("..", import.meta.url).pathname;
-const TEAM = loadPhysiqueGuruTeam(PROJECT_ROOT);
+const CLI_ROOT = new URL("..", import.meta.url).pathname;
+const REPO_ROOT = new URL("../..", import.meta.url).pathname;
+const TEAM = loadPhysiqueGuruTeam(REPO_ROOT);
 
 async function main() {
   const rl = createInterface({ input: stdin, output: stdout });
@@ -36,7 +37,7 @@ async function main() {
         for await (const message of query({
           prompt: question,
           options: {
-            cwd: PROJECT_ROOT,
+            cwd: REPO_ROOT,
             systemPrompt: TEAM.systemPrompt,
             tools: TEAM.mainThreadTools,
             agents: TEAM.specialistAgents,

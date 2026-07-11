@@ -1,6 +1,6 @@
 # Coaching Plan
 
-Last updated: 2026-07-11_002
+Last updated: 2026-07-11_003
 
 > Read top-down by altitude. **Layer 1** is what you do — open it daily.
 > **Layer 2** is the instrument you read the client through. **Layer 3** is why
@@ -35,7 +35,13 @@ Front-loading complexity contradicts the whole method.
 
 ### The daily loop
 
-- Client sends **GM** every morning. **Reply to every GM.** 🫡
+- Client sends **GM** every morning.
+- **A bare GM → reply `🫡`.** One non-escalating token: *received, carry on*.
+  Never praise, tally, or reference the streak.
+- **A GM carrying anything more** than the bare greeting → **do not fire `🫡`.**
+  A reflexive salute to a message that said something real reads as the coach
+  not listening. This message falls outside the ritual and is not answered by
+  the default reply.
 - The period is **never disclosed** to the client. They are not counting down to
   anything.
 

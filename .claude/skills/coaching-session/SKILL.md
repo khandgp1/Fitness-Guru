@@ -78,9 +78,19 @@ When triggered, the trigger itself is the permission for this step (no
 separate confirmation needed) — proceed directly:
 
 1. Reconstruct the full session as a clean User/Assistant dialogue from your
-   own context. This is a faithful rewrite for readability, not a verbatim
-   system dump — skip tool-call noise and system reminders, keep the actual
-   exchange.
+   own context. "Full" means every user and assistant turn appears with its
+   actual content — tables, scripts, numbers, and quoted wording reproduced as
+   they were delivered, never described or paraphrased ("gave an intro script"
+   is a failure; the script itself belongs in the transcript). Content that
+   reached the conversation through tool results — e.g. physique-guru or
+   specialist reports — is part of the exchange and is preserved the same way;
+   the only things dropped are tool-call mechanics and system reminders.
+   Summarizing is the distilled file's job (step 4), not this one's: if the
+   full and distilled files read like two zoom levels of the same summary, the
+   full file is wrong. If part of the session is no longer available verbatim
+   in your context (e.g. it was compacted), mark that span explicitly in the
+   transcript as reconstructed from summary rather than silently paraphrasing
+   it.
 2. Compute `<DATE>_<NNN>` as described above.
 3. Write `sessions/<DATE>_<NNN>_full.md`: a header with the date and session
    number, then the reconstructed dialogue in full.

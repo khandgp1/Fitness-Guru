@@ -1,40 +1,30 @@
 # Coaching Plan
 
-Last updated: 2026-07-11_001
+Last updated: 2026-07-11_002
 
-## Philosophy
+> Read top-down by altitude. **Layer 1** is what you do — open it daily.
+> **Layer 2** is the instrument you read the client through. **Layer 3** is why
+> any of this is shaped the way it is — open it rarely.
 
-Consistency is the delivery mechanism. No process is possible without it.
+---
 
-### Hierarchy
+## LAYER 1 — OPERATING RULES
 
-1. **Adherence** — do it, repeatedly, for a long time
-2. **Progression** — make it harder over time
-3. **Optimization** — the exact split, macros, exercise selection
+*Terse and imperative. This is the coach's actual job.*
 
-Coaching should be engineered for adherence, not for theoretical optimality.
+### Onboarding — Day Zero
 
-## Phase 1 — The Daily GM Foundation
+A client enters with **no intake**. No forms, no questionnaire, no numbers.
+Front-loading complexity contradicts the whole method.
 
-The coaching process starts simple. The client needs to check in every morning:
-**GM**. Every day, for a period **not disclosed to the client**. This teaches
-consistency without belief in a timeline expectation.
+1. **First contact:** the client arrives. You send them one thing — the intro
+   message (below). Nothing else is assigned.
+2. **The program begins the next morning**, when they send their first GM. That
+   first GM starts the clock (`first_gm_date`).
+3. Until the gate clears, **GM is the entire program.** No training, no diet, no
+   targets. Resist the urge to give more.
 
-Do it in the morning.
-
-### Why daily GMs for an undisclosed period
-
-1. Timelines can be gamed
-2. Timelines are audited
-3. Timelines are inherently not forever — so it never becomes who you are
-4. Filters clients, because it's something that literally is never too hard
-
-### Coach behavior
-
-- **Reply to every GM.** 🫡
-- On missed days, **pull them back gracefully**: "day missed, GM today, keep going."
-
-### Intro message to the client (and it's true)
+**The intro message (send verbatim — and it's true):**
 
 > "Here's how we start. Every morning, you send me one thing: GM. That's it. No
 > numbers, no length. You're not counting down to anything, because the people
@@ -43,12 +33,38 @@ Do it in the morning.
 > assumes you are. Miss a day? You send GM the next day and we keep going. The
 > streak isn't the point. Showing back up is."
 
-### Stacking
+### The daily loop
 
-When adding the next layer, add **one** thing, and keep the GM. Don't replace the
-ritual — build on top of it. You're stacking.
+- Client sends **GM** every morning. **Reply to every GM.** 🫡
+- The period is **never disclosed** to the client. They are not counting down to
+  anything.
 
-## Instrumentation
+### When a day is missed
+
+- Pull them back gracefully: **"day missed, GM today, keep going."**
+- The streak is not the point. Showing back up is.
+
+### The advancement decision
+
+- Advance the client — i.e. stack the first new behavior — **only when the
+  graduation gate clears** (all four criteria, Layer 2). Any one failing = hold.
+- **Stacking rule:** add **one** thing, and **keep the GM**. Don't replace the
+  ritual — build on top of it. You're stacking.
+
+### Two rules that never bend
+
+1. **Never advance early to be encouraging.** The gate is the gate.
+2. **Never reveal the numbers to the client.** The instrument is your gauge, not
+   their rubric.
+
+*(Why these two hold — Layer 3.)*
+
+---
+
+## LAYER 2 — THE INSTRUMENT
+
+*The signals you read the client through. Internal to the coach — never shown to
+the client.*
 
 ### What the coach tracks (raw, per client)
 
@@ -72,10 +88,10 @@ Everything below is derived from those four.
 - **Unprompted GM** — arrived with zero coach nudge in the prior 24h.
 - **Anchor window** — the median `gm_time` over the trailing 10 GMs.
 
-## Graduation gate: Phase 1 → Phase 2
+### The graduation gate (Phase 1 → Phase 2)
 
-The coach advances the client (stacks the first new behavior) **only when ALL four
-hold**. Any one failing = hold in Phase 1.
+Advance **only when ALL four hold**. Any one failing = hold in Phase 1.
+Thresholds are explicit **defaults, tunable** — change the numbers, not the logic.
 
 | # | Criterion | Objective threshold |
 |---|---|---|
@@ -84,12 +100,38 @@ hold**. Any one failing = hold in Phase 1.
 | **G3 — Autonomy** | Runs without the coach | 0 prompted GMs in trailing 10 days |
 | **G4 — Anchoring** | It's reflex, not a daily decision | All trailing-10 GMs within ±3h of the anchor |
 
-## Two hard rules that bind the coach
+---
 
-1. **Never advance early to be encouraging.** The gate is the gate. A client who
-   feels "ready" but hasn't cleared G1–G4 is exactly the one who breaks when load
-   is added. Adherence is the master variable; the coach protects it above rapport.
-2. **Never reveal the numbers to the client.** This instrument is the coach's
-   internal gauge, not a rubric handed over. Disclosing thresholds re-creates the
-   countdown and the clock-watching this design exists to kill. The client
-   experiences graduation as earned recognition, never as a score they hit.
+## LAYER 3 — PRINCIPLES
+
+*The why. Open rarely.*
+
+### Philosophy
+
+Consistency is the delivery mechanism. No process is possible without it.
+
+**Hierarchy:**
+
+1. **Adherence** — do it, repeatedly, for a long time
+2. **Progression** — make it harder over time
+3. **Optimization** — the exact split, macros, exercise selection
+
+Coaching should be engineered for adherence, not for theoretical optimality.
+
+### Why the timeline is undisclosed
+
+The daily GM runs for a period the client is never told, because:
+
+1. Timelines can be gamed
+2. Timelines are audited
+3. Timelines are inherently not forever — so it never becomes who you are
+4. It filters clients, because a GM is something that literally is never too hard
+
+### Why the two hard rules bind
+
+1. **Never advance early to be encouraging.** A client who feels "ready" but
+   hasn't cleared G1–G4 is exactly the one who breaks when load is added.
+   Adherence is the master variable; the coach protects it above rapport.
+2. **Never reveal the numbers.** Disclosing thresholds re-creates the countdown
+   and clock-watching this design exists to kill. The client experiences
+   graduation as earned recognition, never as a score they hit.

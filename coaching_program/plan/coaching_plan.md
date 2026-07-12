@@ -1,6 +1,6 @@
 # Coaching Plan
 
-Last updated: 2026-07-11_004
+Last updated: 2026-07-11_005
 
 > Read top-down by altitude. **Layer 1** is what you do — open it daily.
 > **Layer 2** is the instrument you read the client through. **Layer 3** is why
@@ -61,8 +61,8 @@ Front-loading complexity contradicts the whole method.
 
 - Phase 2 begins **immediately at GM graduation** — no gap. The moment the GM
   gate (G1–G4) clears, **Brick One is stacked.** Graduation itself is the trigger.
-- **Skills install one at a time. Food first**, gym later (deferred to future
-  sessions). Keep the GM running underneath — you're still stacking, not replacing.
+- **Skills install one at a time. Food first**, gym later. Keep the GM running
+  underneath — you're still stacking, not replacing.
 - **Food-brick advancement rule — weekly binary.** Each brick is a weekly task:
   *did he do it this week, yes or no?*
   - **Yes → stack the next brick** the following week.
@@ -80,12 +80,11 @@ Front-loading complexity contradicts the whole method.
 - **Task:** eat the whole tub by end of week. **Toppings unrestricted during
   adoption** — friction reduction is the priority; one ~530-cal tub can't dent a
   not-yet-running deficit.
-- **Verify:** ingredient/label photo before start; empty-tub photo at week's end.
-  Trust, then verify.
-- **Baseline capture:** client reports brand kept + toppings used — data for the
-  future topping-swap phase, not a restriction now.
-- **Done bar:** tub emptied + correct product confirmed by photo. **Adoption, not
-  optimization.**
+- **Baseline capture:** client reports the brand he kept. Toppings are not
+  captured — that's data for a future topping-swap phase, not something the
+  client tracks now.
+- **Done bar:** tub emptied. **Adoption, not optimization.** No evidence of
+  completion required — take it on the client's word.
 
 ### Two rules that never bend
 
@@ -157,8 +156,8 @@ week advances — durability is not separately gated here.
 
 ### Program goal
 
-An aesthetic physique — definition learned over time, not assumed at the start.
-For a padded novice the optimal path is **recomposition** (simultaneous fat loss
+An aesthetic physique. For a beginner carrying excess body fat the optimal path
+is **recomposition** (simultaneous fat loss
 + muscle gain): muscle-building ROI is highest now, not lowest. The program still
 **sequences skills one at a time** to get there, because adherence — not
 simultaneity — is the binding constraint. **Food first** (fat loss starts in the

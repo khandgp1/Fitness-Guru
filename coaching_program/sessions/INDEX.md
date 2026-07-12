@@ -17,3 +17,11 @@
 ---
 
 2026-07-11_005 — Language/precision cleanup of the plan: toppings no longer captured by the client, no evidence-of-completion required for Brick One (removed photo verification), dropped the aesthetic-definition qualifier, retired "padded novice," and removed the "(deferred to future sessions)" reference (sessions must not be named inside the plan). No methodology changed. — full: sessions/2026-07-11_005_full.md · distilled: sessions/2026-07-11_005_distilled.md
+
+---
+
+2026-07-12_006 — Brainstorm only (no plan edits): drafted a candidate Phase 2 food ladder B2→B9 with the caloric deficit engineered as an EMERGENT side effect (ignition at B4→B5), protein as palms not grams; surfaced four open decisions to resolve before writing — recomp honesty (Phase 2 = fat loss + retention, not gain without gym), a new 6/7 done-bar tolerance vs. Brick One's single-outcome bar, committing only B2→B5 for now, and a medical red-flag gap in the no-intake design. — full: sessions/2026-07-12_006_full.md · distilled: sessions/2026-07-12_006_distilled.md
+
+---
+
+2026-07-12_007 — Designed Brick Two = a lean protein the client picks (yogurt-template adoption brick): 9-item menu incl. frozen white fish/salmon and lean beef ≥90/10, one-trip-a-week sourcing, minimal-prep/eat-however, client-owns-the-pick coaching, yogurt made a STANDING weekly item, and a new frequency done-bar ("a few times"/coach-internal ≥3 days). Removed cottage cheese, the standalone frozen-fish rule, and the label screen. Drafted to BRICK_TWO_PROPOSAL.md; NOT yet written to coaching_plan.md. — full: sessions/2026-07-12_007_full.md · distilled: sessions/2026-07-12_007_distilled.md

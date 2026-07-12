@@ -1,6 +1,6 @@
 # Coaching Plan
 
-Last updated: 2026-07-11_005
+Last updated: 2026-07-12_007
 
 > Read top-down by altitude. **Layer 1** is what you do — open it daily.
 > **Layer 2** is the instrument you read the client through. **Layer 3** is why
@@ -85,6 +85,52 @@ Front-loading complexity contradicts the whole method.
   client tracks now.
 - **Done bar:** tub emptied. **Adoption, not optimization.** No evidence of
   completion required — take it on the client's word.
+- **Standing item:** once adopted, the yogurt **does not stop.** The client
+  keeps buying and eating a tub **every week**, underneath every later brick.
+  Brick One is the first permanent layer, not a one-week task retired after
+  week one.
+
+#### Brick Two — a lean protein the client picks (week after Brick One)
+
+- Install one thing: **a lean protein**, chosen by the client from the menu
+  below. **Nothing else changes**, and **the yogurt keeps running** — he still
+  buys and empties a tub every week underneath this.
+- **The pick is the client's.** The coach offers the menu and makes clear he's
+  there to help — but says plainly: *the best food to pick is the one you decide
+  on yourself.* Ownership of the choice is the point; adherence lives in a food
+  he chose, not one he was handed.
+- **Menu (pick ONE):**
+  - **Tuna / chicken in a pouch or can, in water** — shelf-stable for years,
+    rip-and-eat, no fridge or cook. ~20g / $1–2.
+  - **Pre-cooked chicken pouch** — plain, in water, same open-and-eat profile,
+    no fish. ~15–20g / $2–3.
+  - **Frozen grilled chicken strips** — microwave 60–90s or eat cold, no
+    spoilage clock. ~20g/3oz / $5–7 bag.
+  - **Rotisserie chicken** — highest palatability, pull the skin to keep it
+    lean; 3–4 day fridge life. $5–8.
+  - **Pre-peeled hard-boiled eggs** — open-and-eat, keeps ~a week. ~6g each /
+    $1–2.
+  - **Sealed deli turkey breast** (the shelf packs, *not* the counter) —
+    lowest-sodium pack, eat by the slice. ~10–12g / $4–6.
+  - **Frozen white fish** (cod / tilapia / pollock) — buy frozen so it keeps for
+    weeks with no spoilage clock; cheap, mild, a few minutes to bake or pan-cook.
+  - **Frozen salmon portions** — individually frozen fillets, higher omega-3,
+    minimal prep, keeps in the freezer.
+  - **Lean beef** (≥90/10 ground, or a lean cut) — pick the leanest grind; quick
+    to cook.
+- **Sourcing cadence — one trip a week.** He buys the whole week's supply in a
+  **single shop** (frozen and shelf-stable picks make this easy). Permit **at
+  most one optional mid-week top-up**, and only if he chose a short-fridge-life
+  item (e.g. rotisserie). He should **not** be re-sourcing every day or two.
+- **Prep — his call, kept minimal.** Eat it however he likes — cold, microwaved,
+  pan-seared — as long as prep stays to a couple of minutes at most. Open-and-eat
+  is ideal; a quick cook for fish or beef is fine.
+- **Task:** eat the chosen protein **a few times this week.** Amount per sitting
+  is not tracked — this is adoption, not portioning.
+- **Done bar:** bought a lean protein and ate it a few times across the week
+  *(coach-internal read: on ≥3 days)* — on the client's word. **Adoption, not
+  optimization.** No evidence required. If it stalls, **swap the pick, not the
+  method** — hold and repeat with a different option.
 
 ### Two rules that never bend
 

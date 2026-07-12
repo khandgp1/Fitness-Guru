@@ -1,6 +1,6 @@
 # Coaching Plan
 
-Last updated: 2026-07-11_003
+Last updated: 2026-07-11_004
 
 > Read top-down by altitude. **Layer 1** is what you do — open it daily.
 > **Layer 2** is the instrument you read the client through. **Layer 3** is why
@@ -57,6 +57,36 @@ Front-loading complexity contradicts the whole method.
 - **Stacking rule:** add **one** thing, and **keep the GM**. Don't replace the
   ritual — build on top of it. You're stacking.
 
+### Phase 2 — the food skill (after GM graduation)
+
+- Phase 2 begins **immediately at GM graduation** — no gap. The moment the GM
+  gate (G1–G4) clears, **Brick One is stacked.** Graduation itself is the trigger.
+- **Skills install one at a time. Food first**, gym later (deferred to future
+  sessions). Keep the GM running underneath — you're still stacking, not replacing.
+- **Food-brick advancement rule — weekly binary.** Each brick is a weekly task:
+  *did he do it this week, yes or no?*
+  - **Yes → stack the next brick** the following week.
+  - **No → hold and repeat** the same brick; do not advance.
+  - **One clean week is enough.** Every step stacks on the last; nothing moves
+    until the current one is done. No multi-criteria gate, no hidden thresholds.
+
+#### Brick One — plain 0% Greek yogurt (week one after GM)
+
+- Install one thing: plain 0% Greek yogurt. **Nothing else changes.**
+- **Sourcing:** unflavored, minimally processed, no added sugar — the ingredient
+  list must read **milk + live cultures only** (this auto-screens "vanilla/honey"
+  imposters hiding 10–15g added sugar). Buy a large multi-serving tub. Try
+  brands; lock the one he genuinely likes — adherence lives there.
+- **Task:** eat the whole tub by end of week. **Toppings unrestricted during
+  adoption** — friction reduction is the priority; one ~530-cal tub can't dent a
+  not-yet-running deficit.
+- **Verify:** ingredient/label photo before start; empty-tub photo at week's end.
+  Trust, then verify.
+- **Baseline capture:** client reports brand kept + toppings used — data for the
+  future topping-swap phase, not a restriction now.
+- **Done bar:** tub emptied + correct product confirmed by photo. **Adoption, not
+  optimization.**
+
 ### Two rules that never bend
 
 1. **Never advance early to be encouraging.** The gate is the gate.
@@ -106,11 +136,34 @@ Thresholds are explicit **defaults, tunable** — change the numbers, not the lo
 | **G3 — Autonomy** | Runs without the coach | 0 prompted GMs in trailing 10 days |
 | **G4 — Anchoring** | It's reflex, not a daily decision | All trailing-10 GMs within ±3h of the anchor |
 
+### The food-brick gate (Phase 2 advancement)
+
+Unlike the GM gate, food bricks use a **single weekly binary** — no
+multi-criteria durability check.
+
+| # | Criterion | Objective rule |
+|---|---|---|
+| **F1 — Weekly completion** | Did the client complete this week's brick? | Brick's done-bar met this calendar week (yes/no) |
+
+Advance on **yes** (stack the next brick). Hold and repeat on **no**. One clean
+week advances — durability is not separately gated here.
+*(Why it's binary, not a GM-style gate — Layer 3.)*
+
 ---
 
 ## LAYER 3 — PRINCIPLES
 
 *The why. Open rarely.*
+
+### Program goal
+
+An aesthetic physique — definition learned over time, not assumed at the start.
+For a padded novice the optimal path is **recomposition** (simultaneous fat loss
++ muscle gain): muscle-building ROI is highest now, not lowest. The program still
+**sequences skills one at a time** to get there, because adherence — not
+simultaneity — is the binding constraint. **Food first** (fat loss starts in the
+kitchen; diet is the bigger, more controllable lever than exercise), **gym
+later** on its own defined trigger, never open-ended.
 
 ### Philosophy
 
@@ -141,3 +194,12 @@ The daily GM runs for a period the client is never told, because:
 2. **Never reveal the numbers.** Disclosing thresholds re-creates the countdown
    and clock-watching this design exists to kill. The client experiences
    graduation as earned recognition, never as a score they hit.
+
+### Why the food gate is a plain weekly binary
+
+The GM gate is multi-criteria (G1–G4) because GM installs the *meta-habit of
+showing up* — that needs durability proof (tenure, autonomy, anchoring). Each
+food brick is instead a concrete weekly task, so "did he do it this week?" is a
+sufficient gate on its own. This deliberately trades durability rigor for speed
+and least-friction simplicity: a dropped brick just halts advancement until it's
+done, so nothing is lost by keeping the gate simple.

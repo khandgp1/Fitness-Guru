@@ -25,3 +25,7 @@
 ---
 
 2026-07-12_007 — Designed Brick Two = a lean protein the client picks (yogurt-template adoption brick): 9-item menu incl. frozen white fish/salmon and lean beef ≥90/10, one-trip-a-week sourcing, minimal-prep/eat-however, client-owns-the-pick coaching, yogurt made a STANDING weekly item, and a new frequency done-bar ("a few times"/coach-internal ≥3 days). Removed cottage cheese, the standalone frozen-fish rule, and the label screen. Drafted to BRICK_TWO_PROPOSAL.md; NOT yet written to coaching_plan.md. — full: sessions/2026-07-12_007_full.md · distilled: sessions/2026-07-12_007_distilled.md
+
+---
+
+2026-07-12_008 — Wrote the two Phase 2 client-facing "send verbatim" messages (Brick One yogurt + Brick Two lean protein) to match the Day Zero GM intro voice; both locked in-session after line-level edits. Enforced voice rules (no em-dashes, no LLM tells) but explicitly kept them in-session only (a created memory was deleted at the user's direction). Three plan edits queued, NOT yet applied: add both messages + remove "(pull the skin)" from the rotisserie line. — full: sessions/2026-07-12_008_full.md · distilled: sessions/2026-07-12_008_distilled.md

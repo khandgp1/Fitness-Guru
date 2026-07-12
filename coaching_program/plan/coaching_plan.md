@@ -1,6 +1,6 @@
 # Coaching Plan
 
-Last updated: 2026-07-12_007
+Last updated: 2026-07-12_008
 
 > Read top-down by altitude. **Layer 1** is what you do — open it daily.
 > **Layer 2** is the instrument you read the client through. **Layer 3** is why
@@ -90,6 +90,17 @@ Front-loading complexity contradicts the whole method.
   Brick One is the first permanent layer, not a one-week task retired after
   week one.
 
+**The Brick One message (send verbatim — and it's true):**
+
+> "You've been showing up every day. Good. Now we add one thing, and only one.
+> Plain 0% Greek yogurt. Before it goes in your cart, read the ingredients. You
+> want milk and live cultures, nothing more. If sugar or vanilla or honey is on
+> the list, it's a dessert. Skip it. Get a big tub of whatever brand tastes good
+> enough that you'll actually eat it. The job this week is simple. Finish the
+> tub. Put whatever you want on top for now, none of that matters yet. Keep
+> sending GM every morning the way you have been. This just goes on top of that.
+> One tub, gone by the end of the week."
+
 #### Brick Two — a lean protein the client picks (week after Brick One)
 
 - Install one thing: **a lean protein**, chosen by the client from the menu
@@ -106,8 +117,7 @@ Front-loading complexity contradicts the whole method.
     no fish. ~15–20g / $2–3.
   - **Frozen grilled chicken strips** — microwave 60–90s or eat cold, no
     spoilage clock. ~20g/3oz / $5–7 bag.
-  - **Rotisserie chicken** — highest palatability, pull the skin to keep it
-    lean; 3–4 day fridge life. $5–8.
+  - **Rotisserie chicken** — highest palatability; 3–4 day fridge life. $5–8.
   - **Pre-peeled hard-boiled eggs** — open-and-eat, keeps ~a week. ~6g each /
     $1–2.
   - **Sealed deli turkey breast** (the shelf packs, *not* the counter) —
@@ -131,6 +141,31 @@ Front-loading complexity contradicts the whole method.
   *(coach-internal read: on ≥3 days)* — on the client's word. **Adoption, not
   optimization.** No evidence required. If it stalls, **swap the pick, not the
   method** — hold and repeat with a different option.
+
+**The Brick Two message (send verbatim — and it's true):**
+
+> "The yogurt doesn't stop. A tub every week from here on, sitting under
+> everything else we do. This week you add one more thing on top of it: a lean
+> protein. You pick which one.
+>
+> The one you choose yourself is the one you'll still be eating a month from now,
+> so pick something you'd actually want to eat. Affordable, easy to grab, quick
+> to make or no cooking at all. If it's a hassle, you won't keep it up.
+>
+> Some options:
+> • Tuna or chicken, pouch or can, in water
+> • Pre-cooked plain chicken pouch
+> • Frozen grilled chicken strips
+> • Rotisserie chicken
+> • Pre-peeled hard-boiled eggs
+> • Sealed deli turkey breast, the shelf packs
+> • Frozen white fish, cod, tilapia, or pollock
+> • Frozen salmon portions
+> • Lean beef, 90/10 or leaner
+>
+> Pick one. Buy the whole week's worth in a single shop. Eat it a few times this
+> week, cold or hot, however you'll actually eat it. GM every morning, yogurt
+> every week, and now this."
 
 ### Two rules that never bend
 

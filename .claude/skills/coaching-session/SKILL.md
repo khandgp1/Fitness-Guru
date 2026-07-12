@@ -111,12 +111,25 @@ was captured.
 
 1. Ask the user directly and plainly: should the coaching plan be updated with
    what this session covered? Proceed only on a clear yes.
-2. If yes and `plan/coaching_plan.md` doesn't exist yet, create it.
-3. If yes and it exists, edit it in place with this session's changes — don't
-   rewrite sections the session didn't touch. This overwrites the previous
-   version; no separate archived copy is kept.
-4. Update the `Last updated: <DATE>_<NNN>` line at the top of the file to this
-   session's identifier (compute or reuse it as described above).
+2. On a clear yes, do NOT edit `plan/coaching_plan.md` yet. First write the
+   proposed changes to `plan/proposed_update.md` — a self-contained, readable
+   account of exactly what will change in the coaching plan: which sections, the
+   old → new content, and why. Write it to be opened and read in a markdown
+   viewer, not scanned in the terminal. Tell the user the file path and ask them
+   to review it there. This is a scratch review artifact — do not index it in
+   `sessions/INDEX.md` or otherwise treat it as part of the persisted program
+   record.
+3. Iterate on `plan/proposed_update.md` in place against the user's feedback
+   until they approve the proposed changes.
+4. On approval, apply them to the coaching plan:
+   - If `plan/coaching_plan.md` doesn't exist yet, create it. If it exists, edit
+     it in place with the approved changes — don't rewrite sections the session
+     didn't touch. This overwrites the previous version; no separate archived
+     copy is kept.
+   - Update the `Last updated: <DATE>_<NNN>` line at the top of the file to this
+     session's identifier (compute or reuse it as described above).
+   - Delete `plan/proposed_update.md` — once the coaching plan is updated, the
+     review artifact has served its purpose and is not kept.
 5. If the plan has grown large or unwieldy as a single file, raise that with
    the user and work out a split structure together at that point — don't
    assume any particular shape in advance, and don't split without agreement.
